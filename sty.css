@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+}
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    font-weight: bold;
+}
